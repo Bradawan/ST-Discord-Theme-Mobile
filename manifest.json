@@ -1,0 +1,12 @@
+{
+    "display_name": "Not A Discord Theme",
+    "loading_order": 100,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "icefog72",
+    "version": "1.1.0",
+    "homePage": "https://github.com/IceFog72/SillyTavern-Not-A-Discord-Theme",
+    "auto_update": true
+}
